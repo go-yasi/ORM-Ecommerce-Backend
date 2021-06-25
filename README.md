@@ -1,4 +1,4 @@
-# E-COMMERCE 
+# E-Commerce Back End Application
 
 ## Description 
 The goal of this assignment was to build the back-end of an e-commerce application by using Sequelize and MySQL2 to interact with a MySQL database. In developing this application, I was able to gain a stonger understanding of the fundamental architecture of e-commerce platforms, and advance in my path to becoming a full-stack web developer.
@@ -28,7 +28,7 @@ After creating the models and routes, I used MySQL Workbench to create my databa
 
 ## Usage
 [Here](https://github.com/go-yasi/ecommerce-backend) is a link to the GitHub repository containing my application code.  
-[Here](https://google.com) is a link to a video walkthrough demonstrating the functionality of my code. 
+[Here](https://www.loom.com/share/b4dfe4e76bef4e10a293b467bdaf7a2c) is a link to a video walkthrough demonstrating the functionality of my code. 
 
 ## Conclusion
 Overall, I enjoyed creating this application! It helped me develop a better understanding of databases and how to interact with data on the backend. 
